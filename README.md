@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Never forget what you are.
 <!--
 **ShubhamCanMakeCommit/ShubhamCanMakeCommit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +15,3 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/ShubhamCanMakeCommit/ShubhamCanMakeCommit/master/atom.gif)
-## Never forget what you are.
